@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>NetSimulator</RootNamespace>
+    <TargetFramework>net7.0</TargetFramework>
+    <UseApplicationFramework>False</UseApplicationFramework>
+    <ApplicationIcon>BRBI.ico</ApplicationIcon>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="BRBI.ico" />
+  </ItemGroup>
+
+</Project>
